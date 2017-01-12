@@ -84,7 +84,8 @@ animatable properties
 Demo and Application examp
 ---
 
-- [demo](http://codepen.io/poetries/pen/dNMRoQ)
+- [demo01](http://codepen.io/poetries/pen/dNMRoQ)
+- [demo02](http://codepen.io/poetries/pen/JEXpYb)
 - [运用速度版animateSpeed实现banner轮播](http://codepen.io/poetries/pen/ZLWyWJ)
 
 
