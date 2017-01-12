@@ -20,10 +20,10 @@ or
 
 - Take Animate for example
 
-animateTime version usage method:
+animateSpeed version usage method:
 
 ```javascript
-animateTime(obj,json,callback);
+animateSpeed(obj,json,callback);
 ```
 
 example:
@@ -39,10 +39,10 @@ animateSpeed(obj,{
 });
 ```
 
-animateSpeed version usage method:
+animateTime version usage method:
 
 ```javascript
-animateSpeed(obj,json,time,prop,callback);
+animateTime(obj,json,time,prop,callback);
 ```
 
 example:
