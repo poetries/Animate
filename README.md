@@ -81,10 +81,10 @@ animatable properties
   - bounceBoth
 
 
-online Demos and Application examples
+Online Demo and Application examples
 ---
 
-- [demo1](http://codepen.io/poetries/pen/dNMRoQ)
+- [demo](http://codepen.io/poetries/pen/dNMRoQ)
 - [运用速度版animateSpeed实现banner轮播](http://codepen.io/poetries/pen/ZLWyWJ)
 
 
