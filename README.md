@@ -81,7 +81,7 @@ animatable properties
   - bounceBoth
 
 
-Online Demo and Application examples
+Demo and Application examp
 ---
 
 - [demo](http://codepen.io/poetries/pen/dNMRoQ)
