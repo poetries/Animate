@@ -1,10 +1,16 @@
 Animate
 ---
+[![npm version](https://img.shields.io/npm/v/poetriesanimate.svg)](https://www.npmjs.com/package/poetriesanimate)
+
 animate.js is a simple library that helps you write smooth motion effects
 
 
 Usage
 ---
+
+```
+npm install poetriesanimate
+```
 
 - Include animate.min.js in your page:
 
